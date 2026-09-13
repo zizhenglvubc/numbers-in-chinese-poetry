@@ -28,6 +28,8 @@ The starting point was a literary observation: numerals carry a great deal of we
 | *Yuan qu* | Yuan, 1271–1368 | qu | 10,914 |
 | Nalan Xingde, collected poems | Qing, 1644–1912 | ci | 258 |
 
+The derived per-poem and per-collection counts are also published as a dataset on Hugging Face: [huggingface.co/datasets/zizhenglvubc/numbers-in-chinese-poetry](https://huggingface.co/datasets/zizhenglvubc/numbers-in-chinese-poetry).
+
 The corpus itself is **not redistributed here**. See [`data/README.md`](data/README.md) for how to obtain it and verify that your copy matches the one used, via the SHA-256 manifest in [`results/corpus_manifest.json`](results/corpus_manifest.json).
 
 ## Method

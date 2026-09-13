@@ -7,6 +7,8 @@ collection plus a total row, with poem counts, numeral counts, poem-level and
 character-level rates, and the ten most frequent numerals in each collection.
 CC BY 4.0.
 
+The same derived data is published on Hugging Face: [huggingface.co/datasets/zizhenglvubc/numbers-in-chinese-poetry](https://huggingface.co/datasets/zizhenglvubc/numbers-in-chinese-poetry).
+
 Machine-readable run output is in [`../results/`](../results/):
 `summary.json`, `numeral_rates_by_group.csv`, their `_extended` counterparts,
 and `corpus_manifest.json`.

@@ -28,6 +28,8 @@ DOI：待分配（v1.0.0 release 的 Zenodo 存档）
 | 元曲 | 元 1271–1368 | 曲 | 10,914 |
 | 纳兰性德诗集 | 清 1644–1912 | 词 | 258 |
 
+逐首与分组的派生计数同时发布在 Hugging Face：[huggingface.co/datasets/zizhenglvubc/numbers-in-chinese-poetry](https://huggingface.co/datasets/zizhenglvubc/numbers-in-chinese-poetry)。
+
 本仓库**不再分发语料原文**。获取方式见 [`data/README.md`](data/README.md)，并可用 [`results/corpus_manifest.json`](results/corpus_manifest.json) 里的 SHA-256 清单核对你手上的副本是否与本研究一致。
 
 ## 方法
