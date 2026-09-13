@@ -1,0 +1,42 @@
+{
+  "upload_type": "software",
+  "title": "Numbers in Chinese Poetry from the Tang Dynasty Onward",
+  "version": "1.0.0",
+  "language": "eng",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Lv, Zizheng",
+      "orcid": "0009-0004-0327-4477",
+      "affiliation": "University of British Columbia"
+    }
+  ],
+  "description": "<p>A corpus scan of 175,355 classical Chinese poems from the Tang dynasty through the Qing, measuring how often numeral characters appear in <em>shi</em>, <em>ci</em> and <em>qu</em>. 59.24% of poems contain at least one numeral character, and numerals account for 2.15% of all 11,571,489 characters in the corpus. The <em>ci</em> collections sit at the top of the range (71.4% and 71.7%) while <em>shi</em> sits lower (54.8% and 59.0%), and the character 一 is the most frequent numeral in every collection by a wide margin.</p><p>The repository releases the counting code, per-poem and per-collection derived datasets, figures, documentation, and the presentation the study originates from. The source corpus is drawn from the open-source chinese-poetry database (MIT License) and is not redistributed; a SHA-256 manifest of every file scanned is included so that any copy can be verified against the one used.</p><p>The analysis originates in a digital humanities research presentation given during an exchange program at Peking University in July 2026.</p>",
+  "keywords": [
+    "Chinese poetry",
+    "classical Chinese poetry",
+    "Tang poetry",
+    "numerals",
+    "numerical expressions",
+    "digital humanities",
+    "computational literary studies",
+    "diachronic analysis",
+    "corpus linguistics",
+    "Chinese literature"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://huggingface.co/datasets/zizhenglvubc/numbers-in-chinese-poetry",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/chinese-poetry/chinese-poetry",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ]
+}
