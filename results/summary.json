@@ -1,0 +1,65 @@
+{
+  "title": "Numerals in Classical Chinese Poetry",
+  "author": "Zizheng Lv",
+  "mode": "replicate",
+  "generated_utc": "2026-09-13T08:30:58+00:00",
+  "unit_of_analysis": "poem (a poem counts once if it contains any numeral character)",
+  "numeral_chars": "一七万三两九二五亿億兩八六十千卅四廿百萬零",
+  "extended_quantity_chars": null,
+  "totals": {
+    "poems": 175355,
+    "poems_with_numeral": 103885,
+    "poem_level_rate": 0.592427
+  },
+  "groups": [
+    {
+      "group_id": "tang_shi",
+      "group_label_zh": "唐诗",
+      "files": 58,
+      "poems": 57603,
+      "poems_with_numeral": 31552,
+      "poem_level_rate": 0.547749
+    },
+    {
+      "group_id": "song_shi_1_3",
+      "group_label_zh": "宋诗(1/3抽样)",
+      "files": 85,
+      "poems": 84984,
+      "poems_with_numeral": 50171,
+      "poem_level_rate": 0.590358
+    },
+    {
+      "group_id": "song_ci",
+      "group_label_zh": "宋词",
+      "files": 23,
+      "poems": 21053,
+      "poems_with_numeral": 15022,
+      "poem_level_rate": 0.713533
+    },
+    {
+      "group_id": "yuan_qu",
+      "group_label_zh": "元曲",
+      "files": 1,
+      "poems": 10914,
+      "poems_with_numeral": 6705,
+      "poem_level_rate": 0.614349
+    },
+    {
+      "group_id": "wudai",
+      "group_label_zh": "五代诗词",
+      "files": 14,
+      "poems": 543,
+      "poems_with_numeral": 250,
+      "poem_level_rate": 0.460405
+    },
+    {
+      "group_id": "nalan_qing_ci",
+      "group_label_zh": "清词(纳兰)",
+      "files": 1,
+      "poems": 258,
+      "poems_with_numeral": 185,
+      "poem_level_rate": 0.717054
+    }
+  ],
+  "corpus_files": 182
+}

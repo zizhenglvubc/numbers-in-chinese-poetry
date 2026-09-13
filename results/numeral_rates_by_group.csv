@@ -1,0 +1,7 @@
+group_id,group_label_zh,files,poems,poems_with_numeral,poem_level_rate
+tang_shi,唐诗,58,57603,31552,0.547749
+song_shi_1_3,宋诗(1/3抽样),85,84984,50171,0.590358
+song_ci,宋词,23,21053,15022,0.713533
+yuan_qu,元曲,1,10914,6705,0.614349
+wudai,五代诗词,14,543,250,0.460405
+nalan_qing_ci,清词(纳兰),1,258,185,0.717054

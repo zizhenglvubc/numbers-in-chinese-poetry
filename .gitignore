@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+# the source corpus is not redistributed; see data/README.md
+data/corpus/

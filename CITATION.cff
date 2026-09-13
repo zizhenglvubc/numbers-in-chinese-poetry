@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Numbers in Chinese Poetry from the Tang Dynasty Onward"
+message: "If you use this software or dataset, please cite it as below."
+type: software
+version: 1.0.0
+date-released: "2026-09-13"
+authors:
+  - given-names: "Zizheng"
+    family-names: "Lv"
+    orcid: "https://orcid.org/0009-0004-0327-4477"
+abstract: >-
+  A corpus scan of 175,355 classical Chinese poems from the Tang dynasty through
+  the Qing, measuring how often numeral characters appear in shi, ci and qu.
+  59.24% of poems contain at least one numeral character; numerals account for
+  2.15% of all characters in the corpus. The repository releases the counting
+  code, the derived per-collection statistics, and the presentation material
+  from which the study originates.
+keywords:
+  - Chinese poetry
+  - classical Chinese poetry
+  - Tang poetry
+  - numerals
+  - numerical expressions
+  - digital humanities
+  - computational literary studies
+  - diachronic analysis
+  - corpus linguistics
+  - Chinese literature
+license: MIT
+repository-code: "https://github.com/zizhenglvubc/numbers-in-chinese-poetry"
+references:
+  - type: data
+    title: "chinese-poetry: The most comprehensive database of Chinese poetry"
+    repository-code: "https://github.com/chinese-poetry/chinese-poetry"
+    license: MIT
+    notes: "Source corpus. Not redistributed in this repository."
