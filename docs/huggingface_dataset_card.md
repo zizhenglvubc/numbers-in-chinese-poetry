@@ -15,7 +15,7 @@ size_categories:
 
 # Numerals in Classical Chinese Poetry (Tang–Qing)
 
-**Zizheng Lv** · ORCID [0009-0004-0327-4477](https://orcid.org/0009-0004-0327-4477)
+**Zizheng Lv** · ORCID [0009-0004-0327-4477](https://orcid.org/0009-0004-0327-4477) · DOI [10.5281/zenodo.22734274](https://doi.org/10.5281/zenodo.22734274)
 Code and documentation: https://github.com/zizhenglvubc/numbers-in-chinese-poetry
 
 ## Dataset summary
@@ -116,6 +116,7 @@ project; it is not redistributed here.
   title   = {Numbers in Chinese Poetry from the Tang Dynasty Onward},
   version = {1.0.0},
   year    = {2026},
+  doi     = {10.5281/zenodo.22734274},
   url     = {https://github.com/zizhenglvubc/numbers-in-chinese-poetry}
 }
 ```

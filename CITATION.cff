@@ -28,6 +28,7 @@ keywords:
   - Chinese literature
 license: MIT
 repository-code: "https://github.com/zizhenglvubc/numbers-in-chinese-poetry"
+doi: "10.5281/zenodo.22734274"
 references:
   - type: data
     title: "chinese-poetry: The most comprehensive database of Chinese poetry"

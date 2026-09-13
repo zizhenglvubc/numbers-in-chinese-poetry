@@ -2,8 +2,10 @@
 
 **Zizheng Lv**
 ORCID: [0009-0004-0327-4477](https://orcid.org/0009-0004-0327-4477)
-DOI: to be assigned (Zenodo archive of the v1.0.0 release)
+DOI: [10.5281/zenodo.22734274](https://doi.org/10.5281/zenodo.22734274)
 Version 1.0.0 · [中文说明 / Chinese version](README_zh.md)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22734274.svg)](https://doi.org/10.5281/zenodo.22734274)
 
 This project originates from a digital humanities research presentation conducted by Zizheng Lv during an exchange program at Peking University in July 2026. The corpus scan, the counting code and the analysis presented here are the author's own work. The repository reconstructs that analysis, releases the code and the derived statistics, and archives the presentation material.
 
@@ -96,7 +98,7 @@ Interpretation: that numerals serve as testimony (`三男邺城戍`), as scale (
 
 ```
 Lv, Zizheng. Numbers in Chinese Poetry from the Tang Dynasty Onward.
-Version 1.0.0, 2026. https://github.com/zizhenglvubc/numbers-in-chinese-poetry
+Version 1.0.0, 2026. DOI: 10.5281/zenodo.22734274
 ```
 
 BibTeX and machine-readable metadata: [`CITATION.cff`](CITATION.cff).

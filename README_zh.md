@@ -2,8 +2,10 @@
 
 **Zizheng Lv（吕梓正）**
 ORCID：[0009-0004-0327-4477](https://orcid.org/0009-0004-0327-4477)
-DOI：待分配（v1.0.0 release 的 Zenodo 存档）
+DOI：[10.5281/zenodo.22734274](https://doi.org/10.5281/zenodo.22734274)
 版本 1.0.0 · [English version](README.md)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22734274.svg)](https://doi.org/10.5281/zenodo.22734274)
 
 本项目源自 Zizheng Lv 于 2026 年 7 月在北京大学交换项目期间所做的一次数字人文研究展示。语料扫描、统计代码与分析均由本人完成。本仓库重建该分析，公开代码与派生统计数据，并归档展示材料。
 
@@ -96,7 +98,7 @@ python3 src/numeral_scan.py --corpus /path/to/chinese-poetry --out results/ --mo
 
 ```
 Lv, Zizheng. Numbers in Chinese Poetry from the Tang Dynasty Onward.
-Version 1.0.0, 2026. https://github.com/zizhenglvubc/numbers-in-chinese-poetry
+Version 1.0.0, 2026. DOI: 10.5281/zenodo.22734274
 ```
 
 BibTeX 与机器可读元数据见 [`CITATION.cff`](CITATION.cff)。
